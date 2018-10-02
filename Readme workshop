@@ -1,0 +1,8 @@
+Lab 1: The Basics ( https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/01-path-basics )
+Networking, Service Mesh, and Security (IAM/RBAC) in EKS
+Lab 2: Network Policies and IngressControllers ( https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/04-path-security-and-networking )
+Deployments and HELM
+Lab 3: Canary Deployments and Charts ( https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/03-path-application-development )
+Dashboard, Cluster Auto-scaler, Spot, and HPA using Metrics Server
+Lab 4: App Autoscaling ( https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/03-path-application-development/304-app-scaling )
+Roadmap, Next steps, and Questions
